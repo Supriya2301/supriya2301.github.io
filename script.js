@@ -16,6 +16,6 @@ function sendMessage() {
     );
 }
 
-document.getElementById('btn').addEventListener('click', function() {
+document.getElementById('sendButton').addEventListener('click', function() {
   this.style.backgroundColor = '#4F46E5';
 });
