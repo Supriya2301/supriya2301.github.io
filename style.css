@@ -204,13 +204,13 @@ section:nth-child(2n + 1) {
 .seventy-percent {
 	width: 70%;
 	height: inherit;
-	background-color: #B370F7;
+	background-color: #b67806;
 }
 
 .sixty-percent {
 	width: 60%;
 	height: inherit;
-	background-color: #24E1DF;
+	background-color: #025226;
 }
 
 /* Contact Section */
